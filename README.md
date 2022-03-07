@@ -1,4 +1,4 @@
-## ACAT ArabicLanguage Pack:
+## ACAT Arabic Language Pack:
 
 
 ## Introduction
